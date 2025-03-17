@@ -18,4 +18,4 @@ USER myuser
 EXPOSE 5000
 
 # Start the Flask app
-CMD ["python", "app.py"]
+CMD ["python3", "app.py"]
