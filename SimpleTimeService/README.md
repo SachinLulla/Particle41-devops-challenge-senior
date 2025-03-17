@@ -20,7 +20,7 @@ git --version
 Clone the Repository
 To get started, clone the repository to your local machine:
 
-git clone https://github.com/shivaayrawat/SimpleTimeService.git
+git clone https://github.com/SachinLulla/Particle41-devops-challenge-senior.git
 Navigate into the project directory:
 
 cd SimpleTimeService
